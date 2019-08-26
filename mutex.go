@@ -5,7 +5,7 @@ import (
 
 	"context"
 
-	"github.com/asticode/go-astitools/time"
+	"github.com/molotovtv/go-astitools/time"
 	"github.com/pkg/errors"
 )
 
